@@ -1,0 +1,180 @@
+ *{
+    box-sizing: border-box;
+}
+
+ a{
+    text-decoration:none ;
+    font-size: 18px;
+    color: rgb(188, 188, 188);
+    
+
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+}
+.vsc{
+    color: rgb(238, 238, 238);
+    font-size: 20px;
+
+}
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    text-align:center ;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 30px;
+    margin-top: 20px;
+    
+    
+    
+}
+.rightNav
+{
+   
+}
+.head{
+    padding: 10px;
+}
+button{
+    height: 20px;
+}
+input
+{
+    height: 20px;
+}
+#vsCodeIcon{
+   
+    vertical-align: middle;
+   
+  
+}
+button{
+    background-color:#1F75FE;
+    color: white;
+    height: 34px;
+    width: 110px;
+    border-radius: 5px;
+    border: 0.5px solid #1F75FE;
+    font-size: 18px;
+    
+}
+.updateIt{
+    height: 10px;
+    margin-top: 40px;
+    width: 100rem;
+    text-align: center;
+    font-size: 15px;
+    
+   
+   
+    color: rgb(192, 192, 192);
+
+}
+
+span
+{
+    color: rgb(202, 203, 203);
+}
+#ab1
+{
+    text-decoration: underline;
+    color: blue;
+   
+    
+}
+.searchInput {
+    background-color:rgb(0, 0, 0);
+    color: white;
+    height: 28px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: 0.5px solid white;
+    
+}
+.mid
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+    height: 600px;
+    width: 100vw;
+    
+}
+.midLeft{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+
+}
+#ele1{
+    background-color: rgb(17, 17, 17);
+    border: 0.05px solid rgb(37, 37, 37) ;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 16px;
+    height: 32px;
+    width: 350px;
+    color: rgb(176, 175, 175);
+    margin-bottom: 1px; /* Decrease the margin-bottom */
+}
+
+#ele2{
+    margin-top: 0px; /* Decrease the margin-top */
+    font-size:55px;
+    color: white;
+    margin-bottom: 0px;
+    padding: 5px 0;
+    
+}
+#ele2 p {
+    margin: 20px; /* Remove default margins */
+}
+.midele
+{
+   
+    
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+    
+        line-height: 1.2; /* Adjust the line-height */
+ 
+}
+#twobutton
+{
+    width: 200px;
+    height: 50px;
+
+}
+.linkText{
+    margin-top: 10px;
+    font-size: 15px;
+   
+
+}
+.temp
+{
+    color: #4b8df7;
+    text-decoration: underline;
+}
+#my{
+    color: rgb(48, 48, 48);
+}
+.last
+{
+    margin-top: 19px;
+    font-size: 11px;
+}
+.temp1{
+    text-decoration: underline;
+    font-size: 11px;
+    color: #4b8df7 ;
+}
